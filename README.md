@@ -1,6 +1,6 @@
 # Exercise - Guess the number
 
-Implement a program in Python which guesses a random number that the computer has chosen.
+Implement a program in Python which allows a user to guess a random number that the computer has chosen.
 
 You might find the following helpful:
 
